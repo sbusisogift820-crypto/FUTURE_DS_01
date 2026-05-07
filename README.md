@@ -17,17 +17,17 @@ Database: SQLite3
 Environment: Google Colab / Jupyter Notebook
 
 Data Pipeline & Methodology
-Data Cleaning: * Removed rows with missing CustomerID to ensure accurate behavior tracking.
+Data Cleaning: Removed rows with missing CustomerID to ensure accurate behavior tracking.
 
 Filtered out negative Quantity and UnitPrice values (handling returns/errors).
 
 Standardized InvoiceDate to datetime objects for time-series analysis.
 
-Database Integration: * Migrated the cleaned dataset into a SQLite database (OnlineRetail.db).
+Database Integration: Migrated the cleaned dataset into a SQLite database (OnlineRetail.db).
 
 Used SQL queries to aggregate data, demonstrating the ability to handle structured data in a production-like environment.
 
-Visualization (The Dashboard): * Developed a "Client-Ready" dashboard to visualize growth and product rankings.
+Visualization (The Dashboard): Developed a "Client-Ready" dashboard to visualize growth and product rankings.
 
 Key Insights & Results
 1. Revenue Trends
