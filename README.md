@@ -33,10 +33,10 @@ Key Insights & Results
 1. Revenue Trends
 The analysis shows significant growth patterns, particularly during the end-of-year holiday season.
 ![Sales Dashboard](dashboard.png)
-2. Product Performance
+3. Product Performance
 I identified the top 10 products contributing to the majority of the total revenue. This allows for optimized inventory management.
 
-3. Executive Summary
+4. Executive Summary
 Total Revenue: [$8,911,407.90]
 
 Total Successful Orders: [18536]
