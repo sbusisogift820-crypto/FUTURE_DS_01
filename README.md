@@ -32,7 +32,7 @@ Visualization (The Dashboard): * Developed a "Client-Ready" dashboard to visuali
 Key Insights & Results
 1. Revenue Trends
 The analysis shows significant growth patterns, particularly during the end-of-year holiday season.
-
+![Sales Dashboard] (visuals/dashboard.png)
 2. Product Performance
 I identified the top 10 products contributing to the majority of the total revenue. This allows for optimized inventory management.
 
