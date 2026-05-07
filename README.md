@@ -33,17 +33,24 @@ Key Insights & Results
 1. Revenue Trends
 The analysis shows significant growth patterns, particularly during the end-of-year holiday season.
 ![Sales Dashboard](dashboard.png)
-3. Product Performance
-I identified the top 10 products contributing to the majority of the total revenue. This allows for optimized inventory management.
+2. Monthy Revenue Trends
+The analysis reveals significant growth patterns of the retail performance, particularly during the Q4 holiday season, peaking in November. By combining monthly revenue trends and product distribution into a single view.
+![Monnthly Revenue Trend](revenue_trend.png)
+4. Top 10 Profitable Products
+I identified the top-performing products by revenue contributing to the majority of the total revenue. This allows for optimized inventory management and marketing focus.
+![Top Products](top_products.png)
 
-4. Executive Summary
+5. Executive Summary
 Total Revenue: [$8,911,407.90]
 
-Total Successful Orders: [18536]
+Total Successful Orders: [18,536]
 
-Average Order Value: [$22.39]
+Unique Customers: [4,339]
+
+Average Order Value: [$480.76]
 
 Business Recommendations
-Inventory Scaling: Increase stock for the identified Top 10 products at least 2 months prior to the Q4 holiday spike.
+Inventory Scaling: Increase stock for the identified Top 10 products at least 2 months prior to the holiday spike.
+Customer Retention: Launch targeted loyalty campaigns in thr highest-performing regions to maintain momentum during slower months.
 
 Customer Retention: Launch targeted loyalty campaigns in the highest-performing regions to maintain momentum during slower months.
