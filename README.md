@@ -52,5 +52,3 @@ Average Order Value: [$480.76]
 Business Recommendations
 Inventory Scaling: Increase stock for the identified Top 10 products at least 2 months prior to the holiday spike.
 Customer Retention: Launch targeted loyalty campaigns in thr highest-performing regions to maintain momentum during slower months.
-
-Customer Retention: Launch targeted loyalty campaigns in the highest-performing regions to maintain momentum during slower months.
